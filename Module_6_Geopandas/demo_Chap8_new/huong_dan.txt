@@ -1,0 +1,13 @@
+﻿Cần phải cài đặt các gói cần thiết trước khi cài geopandas: pip install geopandas
+
+url: https://www.lfd.uci.edu/~gohlke/pythonlibs
+
+pip install GDAL-xx.whl
+pip install Fiona-xx.whl
+pip install pyproj-xx.whl
+pip install Shapely-xx.whl
+
+
+pip install Descartes
+pip install geopandas
+

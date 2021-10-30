@@ -1,0 +1,157 @@
+State,State_name,Month,Unemployment_Rate,Date
+AL,Alabama,Jan,2.7,Jan-20
+AK,Alaska,Jan,6,Jan-20
+AZ,Arizona,Jan,4.5,Jan-20
+AR,Arkansas,Jan,3.5,Jan-20
+CA,California,Jan,3.9,Jan-20
+CO,Colorado,Jan,2.5,Jan-20
+CT,Connecticut,Jan,3.7,Jan-20
+DE,Delaware,Jan,4,Jan-20
+,D.C.,Jan,5.2,Jan-20
+FL,Florida,Jan,2.8,Jan-20
+GA,Georgia,Jan,3.1,Jan-20
+HI,Hawaii,Jan,2.7,Jan-20
+ID,Idaho,Jan,2.8,Jan-20
+IL,Illinois,Jan,3.5,Jan-20
+IN,Indiana,Jan,3.1,Jan-20
+IA,Iowa,Jan,2.8,Jan-20
+KS,Kansas,Jan,3.1,Jan-20
+KY,Kentucky,Jan,4.3,Jan-20
+LA,Louisiana,Jan,5.1,Jan-20
+ME,Maine,Jan,3.1,Jan-20
+MD,Maryland,Jan,3.3,Jan-20
+MA,Massachusetts,Jan,2.8,Jan-20
+MI,Michigan,Jan,3.8,Jan-20
+MN,Minnesota,Jan,3.2,Jan-20
+MS,Mississippi,Jan,5.5,Jan-20
+MO,Missouri,Jan,3.5,Jan-20
+MT,Montana,Jan,3.5,Jan-20
+NE,Nebraska,Jan,3.9,Jan-20
+NV,Nevada,Jan,3.6,Jan-20
+NH,New Hampshire,Jan,2.6,Jan-20
+NJ,New Jersey,Jan,3.8,Jan-20
+NM,New Mexico,Jan,4.8,Jan-20
+NY,New York,Jan,3.8,Jan-20
+NC,North Carolina,Jan,3.6,Jan-20
+ND,North Dakota,Jan,2.3,Jan-20
+OH,Ohio,Jan,4.1,Jan-20
+OK,Oklahoma,Jan,3.3,Jan-20
+OR,Oregon,Jan,3.3,Jan-20
+PA,Pennsylvania,Jan,4.7,Jan-20
+RI,Rhode Island,Jan,3.1,Jan-20
+SC,South Carolina,Jan,2.4,Jan-20
+SD,South Dakota,Jan,3.4,Jan-20
+TN,Tennessee,Jan,3.3,Jan-20
+TX,Texas,Jan,4.5,Jan-20
+UT,Utah,Jan,2.5,Jan-20
+VT,Vermont,Jan,2.4,Jan-20
+VA,Virginia,Jan,2.7,Jan-20
+WA,Washington,Jan,3.9,Jan-20
+WV,West Virginia,Jan,5,Jan-20
+WI,Wisconsin,Jan,3.5,Jan-20
+WY,Wyoming,Jan,3.7,Jan-20
+,Puerto Rico,Jan,8.9,Jan-20
+AL,Alabama,Feb,2.7,Feb-20
+AK,Alaska,Feb,5.8,Feb-20
+AZ,Arizona,Feb,4.5,Feb-20
+AR,Arkansas,Feb,3.9,Feb-20
+CA,California,Feb,2.5,Feb-20
+CO,Colorado,Feb,2.8,Feb-20
+CT,Connecticut,Feb,3.9,Feb-20
+DE,Delaware,Feb,5.2,Feb-20
+,D.C.,Feb,2.8,Feb-20
+FL,Florida,Feb,3.1,Feb-20
+GA,Georgia,Feb,2.7,Feb-20
+HI,Hawaii,Feb,2.7,Feb-20
+ID,Idaho,Feb,3.4,Feb-20
+IL,Illinois,Feb,3.1,Feb-20
+IN,Indiana,Feb,2.8,Feb-20
+IA,Iowa,Feb,3.1,Feb-20
+KS,Kansas,Feb,4.2,Feb-20
+KY,Kentucky,Feb,5.2,Feb-20
+LA,Louisiana,Feb,3.2,Feb-20
+ME,Maine,Feb,3.3,Feb-20
+MD,Maryland,Feb,2.8,Feb-20
+MA,Massachusetts,Feb,3.6,Feb-20
+MI,Michigan,Feb,3.1,Feb-20
+MN,Minnesota,Feb,5.4,Feb-20
+MS,Mississippi,Feb,3.5,Feb-20
+MO,Missouri,Feb,3.5,Feb-20
+MT,Montana,Feb,2.9,Feb-20
+NE,Nebraska,Feb,3.6,Feb-20
+NV,Nevada,Feb,3.6,Feb-20
+NH,New Hampshire,Feb,3.8,Feb-20
+NJ,New Jersey,Feb,4.8,Feb-20
+NM,New Mexico,Feb,3.7,Feb-20
+NY,New York,Feb,3.6,Feb-20
+NC,North Carolina,Feb,2.2,Feb-20
+ND,North Dakota,Feb,4.2,Feb-20
+OH,Ohio,Feb,3.2,Feb-20
+OK,Oklahoma,Feb,3.3,Feb-20
+OR,Oregon,Feb,4.7,Feb-20
+PA,Pennsylvania,Feb,3.4,Feb-20
+RI,Rhode Island,Feb,2.5,Feb-20
+SC,South Carolina,Feb,3.3,Feb-20
+SD,South Dakota,Feb,3.4,Feb-20
+TN,Tennessee,Feb,3.5,Feb-20
+TX,Texas,Feb,2.5,Feb-20
+UT,Utah,Feb,3.4,Feb-20
+VT,Vermont,Feb,2.6,Feb-20
+VA,Virginia,Feb,3.8,Feb-20
+WA,Washington,Feb,4.9,Feb-20
+WV,West Virginia,Feb,3.7,Feb-20
+WI,Wisconsin,Feb,2.7,Feb-20
+WY,Wyoming,Feb,5.8,Feb-20
+,Puerto Rico,Feb,4.5,Feb-20
+AL,Alabama,Mar,3.5,Mar-20
+AK,Alaska,Mar,5.6,Mar-20
+AZ,Arizona,Mar,5.5,Mar-20
+AR,Arkansas,Mar,4.8,Mar-20
+CA,California,Mar,5.3,Mar-20
+CO,Colorado,Mar,4.5,Mar-20
+CT,Connecticut,Mar,3.7,Mar-20
+DE,Delaware,Mar,5.1,Mar-20
+,D.C.,Mar,6,Mar-20
+FL,Florida,Mar,4.3,Mar-20
+GA,Georgia,Mar,4.2,Mar-20
+HI,Hawaii,Mar,2.6,Mar-20
+ID,Idaho,Mar,2.6,Mar-20
+IL,Illinois,Mar,4.6,Mar-20
+IN,Indiana,Mar,3.2,Mar-20
+IA,Iowa,Mar,3.7,Mar-20
+KS,Kansas,Mar,3.1,Mar-20
+KY,Kentucky,Mar,5.8,Mar-20
+LA,Louisiana,Mar,6.1,Mar-20
+ME,Maine,Mar,3.2,Mar-20
+MD,Maryland,Mar,3.3,Mar-20
+MA,Massachusetts,Mar,2.9,Mar-20
+MI,Michigan,Mar,4.1,Mar-20
+MN,Minnesota,Mar,3.1,Mar-20
+MS,Mississippi,Mar,5.3,Mar-20
+MO,Missouri,Mar,4.5,Mar-20
+MT,Montana,Mar,3.5,Mar-20
+NE,Nebraska,Mar,4.2,Mar-20
+NV,Nevada,Mar,6.3,Mar-20
+NH,New Hampshire,Mar,2.6,Mar-20
+NJ,New Jersey,Mar,3.8,Mar-20
+NM,New Mexico,Mar,5.9,Mar-20
+NY,New York,Mar,4.5,Mar-20
+NC,North Carolina,Mar,4.4,Mar-20
+ND,North Dakota,Mar,2.2,Mar-20
+OH,Ohio,Mar,5.5,Mar-20
+OK,Oklahoma,Mar,3.1,Mar-20
+OR,Oregon,Mar,3.3,Mar-20
+PA,Pennsylvania,Mar,6,Mar-20
+RI,Rhode Island,Mar,4.6,Mar-20
+SC,South Carolina,Mar,2.6,Mar-20
+SD,South Dakota,Mar,3.3,Mar-20
+TN,Tennessee,Mar,3.5,Mar-20
+TX,Texas,Mar,4.7,Mar-20
+UT,Utah,Mar,3.6,Mar-20
+VT,Vermont,Mar,3.2,Mar-20
+VA,Virginia,Mar,3.3,Mar-20
+WA,Washington,Mar,5.1,Mar-20
+WV,West Virginia,Mar,6.1,Mar-20
+WI,Wisconsin,Mar,3.4,Mar-20
+WY,Wyoming,Mar,3.7,Mar-20
+,Puerto Rico,Mar,,Mar-20
